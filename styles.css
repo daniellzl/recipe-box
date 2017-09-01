@@ -1,0 +1,27 @@
+textarea {
+    resize: none;
+}
+
+button {
+    margin: 5px;
+}
+
+.container {
+    text-align: center;
+}
+
+.panel {
+    border: none;
+    text-align: left;
+}
+
+body {
+    background-color: #96ceb4;
+    font-family: 'Itim', cursive;
+    padding: 10px;
+}
+
+.jumbotron {
+    background-color: #ffeead;
+    color: #96ceb4;
+}
