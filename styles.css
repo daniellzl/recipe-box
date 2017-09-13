@@ -1,27 +1,30 @@
+body {
+  background-color: #96ceb4;
+  font-family: 'Itim', cursive;
+  padding: 10px;
+}
+
 textarea {
-    resize: none;
+  resize: none;
 }
 
 button {
-    margin: 5px;
+  margin: 5px;
 }
 
 .container {
-    text-align: center;
+  text-align: center;
 }
 
 .panel {
-    border: none;
-    text-align: left;
+  border: none;
+  text-align: left;
 }
 
-body {
-    background-color: #96ceb4;
-    font-family: 'Itim', cursive;
-    padding: 10px;
-}
+
+/*TITLE*/
 
 .jumbotron {
-    background-color: #ffeead;
-    color: #96ceb4;
+  background-color: #ffeead;
+  color: #96ceb4;
 }
