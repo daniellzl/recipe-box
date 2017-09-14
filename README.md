@@ -2,7 +2,7 @@
 
 Displays a list of cooking recipes. Users can add, edit, or delete their own recipes.
 
-[Live Application](recipe-box-dlzl.surge.sh)
+[Live Application](https://recipe-box-dlzl.surge.sh)
 
 ### Project Goals
 
